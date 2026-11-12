@@ -1,0 +1,1 @@
+print("Bye, take care! This is a simple Python script. from f2.py")
